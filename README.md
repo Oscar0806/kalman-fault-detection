@@ -42,4 +42,4 @@ under noise and chi-squared statistical fault detection.
 Python, Jupyter, NumPy, SciPy, Scikit-learn, Matplotlib
  
 ## Author
-**Oscar Vincent Dbritto** | M.Sc. Digitalization & Automation, PFH Stade
+**Oscar Vincent Dbritto** | M.Sc. Digitalization & Automation | [Portfolio](https://oscardbritto.framer.website/) | [Linkedin](https://www.linkedin.com/in/oscar-dbritto/)
